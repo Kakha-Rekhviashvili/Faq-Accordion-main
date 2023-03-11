@@ -196,9 +196,10 @@ H1 {
   .box {
     display: inline-block;
     position: relative;
-    top: 50px;
-    left: -5px;
-    margin-right: -79px;
+    top: 46px;
+    left: 16px;
+    margin-right: -60px;
     z-index: 100;
+    width: 151px;
   }
 }
